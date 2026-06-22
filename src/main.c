@@ -21,7 +21,6 @@ int main(void)
         SCREEN_HEIGHT,
         "Galactic Defender");
     
-    ToggleFullscreen();
 
     SetTargetFPS(60);
 
